@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hi
 hello
+=======
+hello
+it is third sesssion
+hi line added
+change
+new change
+>>>>>>> 0a95bc466fb0021bd62e61455f5ed3bd7c5440ae

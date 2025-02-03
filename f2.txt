@@ -1,8 +1,2 @@
+hi
 hello
-<<<<<<< HEAD
-it is third sesssion
-hi line added
-change
-=======
-it is third sesssion
->>>>>>> parent of ede9db2 (Update f2.txt)
